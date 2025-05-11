@@ -1,0 +1,1 @@
+# tryhackme-soc1-lab-notes
