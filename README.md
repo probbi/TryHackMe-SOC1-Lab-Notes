@@ -1,4 +1,4 @@
-# 📝 tryhackme-soc1-lab-notes
+# 📝 TryHackMe-SOC1-Lab-Notes
 This repository contains my personal notes and summaries from the [TryHackMe](https://tryhackme.com) platform, focusing on the **SOC Level 1** path and Blue Team topics and SIEM basics.  
 
 The goal is to document what I’ve learned, strengthen my cybersecurity knowledge, and build a practical portfolio others can follow.
