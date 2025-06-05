@@ -3,6 +3,15 @@ This repository contains my personal notes and summaries from the [TryHackMe](ht
 
 The goal is to document what I’ve learned, strengthen my cybersecurity knowledge, and build a practical portfolio others can follow.
 
+>[!NOTE]
+The author is now spreading his wings in cybersecurity and making friends with scripting and Phython. He loves Linux and penguins and is interested in information technology and likes to tinker with internet networks.
+
+## 🔗 Related Project
+
+Check out my lightweight PCAP analysis tool built in Python:  
+👉 [pcap-analyzer-lite](https://github.com/probbi/pcap-analyzer-lite)
+
+
 ## 🔐 TryHackMe Profile
 
 ➡️ [My TryHackMe profile]
