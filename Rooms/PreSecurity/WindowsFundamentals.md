@@ -54,7 +54,7 @@
   - Configure restore settings
   - Delete restore points
 ---
-🪟 **Conclusion** </br>
+🔚 **Conclusion** </br>
 The Windows Fundamentals 1–3 rooms were valuable even with my prior IT experience, as they reinforced and expanded my understanding of the Windows operating system from a security perspective. The modules provided structured insights into system configuration, user permissions, and built-in security tools like BitLocker, Defender, and the Windows Registry. Revisiting these topics helped me connect previous hands-on experience with core Blue Team concepts, making it easier to identify and interpret potential threats in a SOC environment.
 
 
