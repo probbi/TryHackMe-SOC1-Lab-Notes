@@ -4,7 +4,7 @@
 3. Windows Fundamentals 3
 ---
 📝 Notes
-### Windows Fundamentals 1
+### 🪟 Windows Fundamentals 1
 - Introduction to Windows
 - Windows Editions
 - The Desktop (GUI)
@@ -17,7 +17,7 @@
 - Settings and the Control Panel
 - Task Manager
 
-### Windows Fundamentals 2
+### 🪟 Windows Fundamentals 2
 - System Configuration
   - MSConfig (General, Boot, Services, Startup, Tools)
   - Change UAC Settings
@@ -33,7 +33,7 @@
 - Registry Editor
   - Registry Editor (regedit)
 
-### Windows Fundamentals 3
+### 🪟 Windows Fundamentals 3
 - Windows Updates
 - Windows Security
 - Virus & threat protection
