@@ -31,6 +31,14 @@ No challenge answers or flags are included — only summaries, tools used, and k
 
 ---
 
+## 🌐 Online presence
+
+- ✅ Portfolio site live: [https://probbi.com](https://probbi.com)
+- 🔧 Hosted on: Cloudflare Pages
+- 💾 Source code: [GitHub Repo](https://github.com/probbi/astro-blog-starter-template)
+
+---
+
 # 🚀 Tools that helped me along the way 
 ## Address, Network Search
 - https://www.abuseipdb.com/
